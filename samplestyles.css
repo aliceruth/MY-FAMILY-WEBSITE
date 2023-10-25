@@ -1,0 +1,28 @@
+
+.images{
+height: 70%;
+width: 90%;
+
+
+}
+.subdiv{
+height: auto;
+width: 25%;
+border: solid green;
+float: left;
+margin-right:5px ;
+padding-left: 10px;
+margin-bottom: 10px;
+
+}
+.maindiv{
+width: 90%;
+height: auto;
+margin: auto;
+background-color: gold;
+}
+.caption{
+color: rgb(207, 9, 9);
+text-align: center;
+background-color: aqua;
+}
